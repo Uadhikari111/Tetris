@@ -1,2 +1,2 @@
 # Tetris
-College Project
+Complete Tetris Game coded in Python.
